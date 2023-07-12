@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amanwa19
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in python, apache airflow , AWS and few other technologies ..
 - 🌱 I have just started :)
 - 💞️ I’m looking to collaborate on python, AWS and Apache Airflow ..
